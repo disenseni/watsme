@@ -21,7 +21,7 @@
   --bs-gray-dark: #343a40;
   --bs-primary: #0bb197;
   --bs-secondary: #74788d;
-  --bs-success: #0ac074;
+  --bs-success: #009aa9;
   --bs-info: #4aa3ff;
   --bs-warning: #fcb92c;
   --bs-danger: #ff3d60;
@@ -2483,12 +2483,12 @@ textarea.form-control-lg {
 
 .btn-primary {
   color: #fff;
-  background-color: #0bb197;
-  border-color: #0bb197; }
+  background-color: #009aa9;
+  border-color: #009aa9; }
   .btn-primary:hover {
     color: #fff;
-    background-color: #099680;
-    border-color: #098e79; }
+    background-color: #038895;
+    border-color: #038895; }
   .btn-check:focus + .btn-primary, .btn-primary:focus {
     color: #fff;
     background-color: #099680;
